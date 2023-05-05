@@ -3,7 +3,7 @@
 #include <string.h>
 #define N 51
 char letterAtIndex(char*, int);
-main()
+main2()
 {
 	char string[N], returnChar;
 	int m;
